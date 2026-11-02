@@ -1,5 +1,4 @@
 from rich import print
-from rich import inspect
 
 class Funcionario:
 
@@ -13,8 +12,13 @@ class Funcionario:
         self.setor = setor
         self.cargo = cargo
 
-    def __str__(self):
+    #def __str__(self):
+        #return f":handshake: Olá!, eu sou [blue]{self.nome}[/blue], so{self.cargo} do setor de {self.setor} da empresa {self.empresa}."
+    
+    def saudacao (self):
         return f":handshake: Olá!, eu sou [blue]{self.nome}[/blue], sou {self.cargo} do setor de {self.setor} da empresa {self.empresa}."
+    
 
 f1 = Funcionario('Gabriel', 'T.I', 'Analista')
-print(f1)
+
+print(f1.saudacao())
