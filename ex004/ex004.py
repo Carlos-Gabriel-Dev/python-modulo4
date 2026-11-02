@@ -1,0 +1,1 @@
+##cria a classe funcionario,onde podemos cadastrar nome,setore cargo.Criar tambem um metodo que permite ao funcionário se apresentar
