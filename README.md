@@ -90,6 +90,12 @@ Este projeto faz parte da minha jornada de aprendizado em Python e tem como fina
 
 Através dos exercícios, busco evoluir minhas habilidades e construir uma base sólida para desenvolver projetos cada vez mais completos.
 
+## 👨‍🏫 Professor
+
+Este módulo faz parte dos estudos de Python com base nas aulas e ensinamentos do professor **Gustavo Guanabara**, do canal [Curso em Vídeo](https://www.youtube.com/@CursoemVideo).
+
+Agradeço ao professor Gustavo Guanabara por compartilhar seus conhecimentos e contribuir para meu aprendizado em programação.
+
 ## 👨‍💻 Autor
 
 **Carlos Gabriel**
