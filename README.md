@@ -1,5 +1,10 @@
 # python-modulo4
 
+<<<<<<< HEAD
+=======
+# python-modulo4
+
+>>>>>>> b9f96cd (fix apos uso do timeshift)
 
 # 🐍 Python - Módulo 4 | Programação Orientada a Objetos
 
