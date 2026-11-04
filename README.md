@@ -1,8 +1,5 @@
 # python-modulo4
 
-# python-modulo4
-
-
 # 🐍 Python - Módulo 4 | Programação Orientada a Objetos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
