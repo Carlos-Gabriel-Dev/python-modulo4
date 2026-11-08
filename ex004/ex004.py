@@ -7,17 +7,12 @@ class Funcionario:
     empresa = "Curso em Video"
 
     def __init__(self, nome='', setor='', cargo=''):
-
         self.nome = nome
         self.setor = setor
         self.cargo = cargo
-
-    #def __str__(self):
-        #return f":handshake: Olá!, eu sou [blue]{self.nome}[/blue], so{self.cargo} do setor de {self.setor} da empresa {self.empresa}."
     
     def saudacao (self):
-        return f":handshake: Olá!, eu sou [blue]{self.nome}[/blue], sou {self.cargo} do setor de {self.setor} da empresa {self.empresa}."
-    
+        return f":handsake: Olá!, eu sou [blue]{self.nome}[/blue], sou {self.cargo} do setor de {self.setor} da empresa {self.empresa}."
 
 f1 = Funcionario('Gabriel', 'T.I', 'Analista')
 

@@ -1,6 +1,6 @@
 from rich import print
+from rich import inspect
 from rich.panel import Panel
-
 
 class Produto : 
     
